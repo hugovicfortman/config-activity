@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("config-activity")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Config Activity")]
+[assembly: AssemblyDescription("Reads Configuration off a JSON file and returns JObject to calling process")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("config-activity")]
+[assembly: AssemblyCompany("Victor Fortman")]
+[assembly: AssemblyProduct("Config Activity")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
